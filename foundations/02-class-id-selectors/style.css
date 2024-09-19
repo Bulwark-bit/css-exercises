@@ -1,18 +1,16 @@
-#Number-2 {
+#two {
       color:RGB(0,0,255);
-      font-style:"Times New Roman";
       font-size:36px;
 }
-p{
+.odd{
       background-color:rgb(255, 123, 163);
       font-family:"DejaVu Sans", sans-serif;
       font-family:"Verdana", sans-serif;
 }
-  .Number-3{
+.change-font-size{
         font-size:24px;
 }
-#Number-4 {
+#four {
       background-color:rgb(100,255,100);
-      font-size:24px;
       font-weight:bold;
 }
